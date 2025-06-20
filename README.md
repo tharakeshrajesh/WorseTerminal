@@ -29,17 +29,9 @@ Create your own levels by reading /WorseTerminal/bughunt_level_guide.md
 
 # Installing
 
-* Click the green '\<\> Code' button
+Go to [https://github.com/tharakeshrajesh/WorseTerminal/releases/tag/v1.0](https://github.com/tharakeshrajesh/WorseTerminal/releases/tag/v1.0) and download one of the compressed files and uncompress them.
 
-![](https://docs.github.com/assets/cb-13128/mw-1440/images/help/repository/code-button.webp "Green GitHub Code Button")
-
-* Next click on Download ZIP
-
-![](/images/download.png "Download ZIP Button")
-
-* Unzip the downloaded ZIP file
-
-* Delete this README.md and the images folder, run requirements.py, run main.py, and enjoy!
+That's it.
 
 ## Authors
 
