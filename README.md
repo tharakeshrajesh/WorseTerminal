@@ -7,7 +7,7 @@ Create your own levels by reading /WorseTerminal/bughunt_level_guide.md
 
 * Colorama
 * Termcolor
-* Cryptography
+* Textblob
 
 # Previews
 ## Windows
@@ -29,7 +29,7 @@ Create your own levels by reading /WorseTerminal/bughunt_level_guide.md
 
 # Installing
 
-Go to [https://github.com/tharakeshrajesh/WorseTerminal/releases/tag/v1.0](https://github.com/tharakeshrajesh/WorseTerminal/releases/tag/v1.0) and download one of the compressed files and uncompress them.
+Go to [https://github.com/tharakeshrajesh/WorseTerminal/releases/tag/v1.1](https://github.com/tharakeshrajesh/WorseTerminal/releases/tag/v1.1) and download one of the compressed files and uncompress them.
 
 That's it.
 
